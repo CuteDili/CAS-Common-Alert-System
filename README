@@ -1,4 +1,16 @@
-This is your new Play application
-=====================================
+CAS - Common Alert System
 
-This file will be packaged with your application, when using `play dist`.
+This is a system which running on playframework. This a web base system which give the disaster alerts in most efficient way.
+mainlly doing this project for DMC - Disaster Managing Centre in Sri Lanka.
+
+Installation Guide,
+
+1) Download playframe work, download the version 2.2 (https://www.playframework.com/download#older-versions)
+2) Unzip it to C: and set the environment variables (C:/play-2.2)
+3) Clone the CAS project to your working space.
+4) cd to the CAS project
+5) type play command in cmd
+6) type run command in cmd
+7) you can see CAS in port 9000 (localhost:9000)
+
+/* Commit before do any changes  */
